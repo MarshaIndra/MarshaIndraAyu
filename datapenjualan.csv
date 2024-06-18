@@ -1,0 +1,11 @@
+No,Tanggal Penjualan,Jenis Kendaraan,Merek,Model,Jumlah Terjual,Harga Satuan (Rp),Total Penjualan (Rp)
+1,1/1/2023,Mobil,Toyota,Avanza,5,"200,000,000","1,000,000,000"
+2,2/1/2023,Motor,Honda,Beat,10,"16,000,000","160,000,000"
+3,3/1/2023,Mobil,Honda,Jazz,3,"250,000,000","750,000,000"
+4,4/1/2023,Motor,Yamaha,Nmax,7,"30,000,000","210,000,000"
+5,5/1/2023,Mobil,Suzuki,Ertiga,4,"190,000,000","760,000,000"
+6,6/1/2023,Motor,Kawasaki,Ninja 250,2,"70,000,000","140,000,000"
+7,7/1/2023,Mobil,Mitsubishi,Pajero,2,"500,000,000","1,000,000,000"
+8,8/1/2023,Motor,Honda,Vario,8,"18,000,000","144,000,000"
+9,9/1/2023,Mobil,Nissan,X-Trail,1,"350,000,000","350,000,000"
+10,10/1/2023,Motor,Suzuki,Satria FU,5,"20,000,000","100,000,000"
